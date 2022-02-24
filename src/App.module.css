@@ -1,0 +1,14 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.userContainer {
+    margin: 10px;
+}
+
+.selected {
+    background-color: aquamarine;
+}
